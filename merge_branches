@@ -1,0 +1,6 @@
+$ git checkout main
+$ git merge bug-fix-typo
+Updating a94dc0a..acb5d76
+Fast-forward
+ README.md | 11 ++++++-----
+ 1 file changed, 6 insertions(+), 5 deletions(-)
